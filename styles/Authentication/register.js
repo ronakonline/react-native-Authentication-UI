@@ -102,5 +102,23 @@ export default StyleSheet.create({
       marginLeft: 10,
       lineHeight: 20,
     },
+    googleregistrationBtn:{
+      flexDirection: 'row',
+      marginTop: 10,
+      marginBottom: 20,
+      backgroundColor: '#FFFFFF',
+      height: 50,
+      alignItems: 'center',
+      justifyContent: 'center',
+      borderRadius: 8,
+      borderColor:'gray',
+      borderWidth: 1,
+    },
+    googlebtn:{
+      color:'#1A202E',
+      fontSize: 16,
+      fontWeight: 'bold',
+      marginLeft: 10,
+    }
   
   });
